@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# جدیدترین فونت‌ها و مقالات
 
 <ul>
   {% for post in site.posts %}
