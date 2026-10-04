@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# جدیدترین کالکشن‌ها و مقالات
 
 <ul>
   {% for post in site.posts %}
